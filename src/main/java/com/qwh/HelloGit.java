@@ -13,6 +13,7 @@ public class HelloGit {
         System.out.println("Hello Git4");
         System.out.println("Hello master");
         System.out.println("Hello push Github");
+        System.out.println("Hello pull git GitHub");
 
     }
 }
